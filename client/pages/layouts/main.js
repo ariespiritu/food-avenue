@@ -11,7 +11,7 @@ class Main extends Component {
 
   render() {
     return(
-      <div>
+      <div className="body">
         <Nav />
         {this.props.children}
         <Footer />

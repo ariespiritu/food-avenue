@@ -1,10 +1,12 @@
 
 .body {
-
+  color: #4e4f4f;
+  padding-top: 4.4rem;
 }
 
 .my-nav {
-  background-color: #f1f1f1;
+  background-color: #fcfcfc;
+  padding: 0.7rem;
 }
 
 .my-footer {
